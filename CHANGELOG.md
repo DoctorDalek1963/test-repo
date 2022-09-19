@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.0] - 20220-09-19
+
 ### Added
 
 - Input and output vectors can now be shown or hidden independently
